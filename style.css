@@ -2,3 +2,9 @@ h1{
    color: #111 ;
    margin: 20px ;
   }
+
+h2{
+   color: #ffcc99 ;
+   margin: 15px auto ;
+   padding: 40px 5% ;
+}
