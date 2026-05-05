@@ -2,9 +2,9 @@
     filter :invert(1);
     height :60px;
     width :auto;
-    max-width :100%
+    max-width :100%;
     display : block;
-    justify-content: flex-start;
+  
 }
 
 .navbar
