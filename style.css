@@ -11,7 +11,7 @@
 
 .navbar
       {display:flex;
-       justify-content: space between;
+       justify-content: space-between;
       align-items:center;
 }
 
@@ -22,10 +22,12 @@
       text-decoration: none;
       font-size:1rem;
       color:#333;
-      display:flex;
+      
       }
 
-
+.menu{
+      display:flex;
+}
 
 
 
