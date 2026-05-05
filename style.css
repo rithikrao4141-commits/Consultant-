@@ -1,5 +1,5 @@
 .nav-logo{
-    color: #111;
+    filter :invert(1);
     height :60px;
     width :auto;
     max-width :100%
