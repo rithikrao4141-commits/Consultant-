@@ -4,6 +4,7 @@
     width :auto;
     max-width :100%
     display : block;
+    justify-content: flex-start;
 }
 
 
