@@ -2,7 +2,7 @@
     filter :hue-rotate(180deg);
     height :60px;
     width :auto;
-    margin-right:auto;
+    margin-left:0;
   
 }
 
