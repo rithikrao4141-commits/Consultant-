@@ -50,7 +50,7 @@ body{
 
 .menu{
       display :none;
-      flex-direction:common;
+      flex-direction:column;
       gap:15px;
 }
 
