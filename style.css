@@ -42,7 +42,7 @@ body{
     padding: 5px 10px;
     border-radius: 5px;
     color: #111; 
-    display:flex;
+    display:none;
     align-self:center;
       
       }
