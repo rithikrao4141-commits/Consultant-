@@ -1,8 +1,8 @@
-<script>
- fuction showmenu(){
+
+ function showmenu(){
 
    let menu=
-document=getElementById("menu");
+document.getElementById("menu");
 
  
 if( menu.style.display==="block"){
@@ -14,5 +14,5 @@ if( menu.style.display==="block"){
 
 
 }
-  </script>
+  
 
