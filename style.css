@@ -53,6 +53,14 @@ body{
       gap:15px;
 }
 
+.menu-btn{
+   font-size:30px;
+   background:none;
+   border:none;
+   color:white;
+   cursor:pointer;
+}
+
 .three-dots {
     color: white;
     font-size: 1.5rem;
