@@ -1,5 +1,5 @@
 
- function showmenu(){
+ function showMenu(){
 
    let menu=
 document.getElementById("menu");
