@@ -70,6 +70,47 @@ body{
 
 
 
+
+.menu-container {
+  display: flex;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  gap: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: upright; /* अक्षरों को सीधा रखने के लिए */
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.icons-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.box {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 8px; /* गोल कोनों के लिए */
+}
+
+.arrow {
+  font-size: 24px;
+  font-weight: bold;
+  transform: scaleX(1.5); /* ऐरो को चौड़ा करने के लिए */
+}
+
+
+
+
+
 h1{
    color: #111;
    margin: 20px;
