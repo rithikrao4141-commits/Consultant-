@@ -82,7 +82,7 @@ body{
 
 .vertical-text {
   writing-mode: vertical-rl;
-  text-orientation: upright; /* अक्षरों को सीधा रखने के लिए */
+  text-orientation: upright; 
   font-weight: bold;
   letter-spacing: 5px;
 }
@@ -98,13 +98,13 @@ body{
   width: 30px;
   height: 30px;
   background-color: white;
-  border-radius: 8px; /* गोल कोनों के लिए */
+  border-radius: 8px; 
 }
 
 .arrow {
   font-size: 24px;
   font-weight: bold;
-  transform: scaleX(1.5); /* ऐरो को चौड़ा करने के लिए */
+  transform: scaleX(1.5);
 }
 
 
