@@ -20,7 +20,7 @@ body{
        align-items:center;
        background-color:#1a1a1a;
        width:100%;
-       padding:0;
+       padding:10px 15px;
        margin:0;
      
       
@@ -76,9 +76,10 @@ body{
   display: flex;
   background-color:#1a1a1a;
   color: white;
-  padding: 10px;
-  gap: 5px;
+  padding: 4px;
+  gap: 4px;
   font-family: Arial, sans-serif;
+  width:55px;
   
 }
 
@@ -89,6 +90,7 @@ body{
   letter-spacing: 5px;
   width:10px;
   height:10px;
+  font-size:12px;
 }
 
 .icons-column {
@@ -99,15 +101,15 @@ body{
 }
 
 .box {
-  width: 20px;
-  height: 20px;
+  width: 14px;
+  height: 14px;
   background-color: white;
   border-radius: 8px; 
   
 }
 
 .arrow {
-  font-size: 24px;
+  font-size: 16px;
   font-weight: bold;
   transform: scaleX(1.5);
 }
