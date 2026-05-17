@@ -110,7 +110,8 @@ body{
 }
 
 .arrow {
-  font-size: 16px;
+  font-size: 14px;
+  align-self:center;
   font-weight: bold;
   transform: scaleX(1.5);
 }
