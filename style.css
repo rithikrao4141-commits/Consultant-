@@ -96,7 +96,7 @@ body{
 .icons-column {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 2px;
   align-items: center;
   position:relative;
 }
@@ -117,7 +117,7 @@ body{
   position: absolute;
   align-self:center;
   font-weight: bold;
-  transform: translate (50%) scaleX(1.5);
+  transform: translateY(-50%) scaleX(1.5);
 }
 
 
