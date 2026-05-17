@@ -76,7 +76,7 @@ body{
   display: flex;
   background-color:#1a1a1a;
   color: white;
-  padding: 4px;
+  padding: 2px;
   gap: 2px;
   font-family: Arial, sans-serif;
   width:55px;
@@ -106,6 +106,7 @@ body{
   background-color: white;
   border-radius: 8px; 
   gap:2px;
+  padding:2px;
   
 }
 
